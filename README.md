@@ -8,4 +8,6 @@ GUI(Graphical User Interface): The graphical user interface is a form of user in
 IDE:An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development. 
 VS Code: streamlined code editor with support for development operations like debugging, task running, and version control.
 Abstraction: used to hide background details or any unnecessary implementation about the data so that users only see the required information.
-
+Operators: a character, or characters, that determine what action is to be performed or considered
+Logical Operators: a symbol or word used to connect two or more expressions 
+Arithmetic Operators: perform addition, subtraction, multiplication, division, exponentiation, and modulus operations.
