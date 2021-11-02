@@ -11,3 +11,5 @@ Abstraction: used to hide background details or any unnecessary implementation a
 Operators: a character, or characters, that determine what action is to be performed or considered
 Logical Operators: a symbol or word used to connect two or more expressions 
 Arithmetic Operators: perform addition, subtraction, multiplication, division, exponentiation, and modulus operations.
+While Loop: a while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition.
+for loop:is a control flow statement for specifying iteration, which allows code to be executed repeatedly.
